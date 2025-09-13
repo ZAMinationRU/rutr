@@ -1,13 +1,17 @@
 {
-    "en": {
-      "LanguageTag": "en",
-      "NativeName": "English",
-      "EnglishName": "English"
-    },
-    "zh-Hans": {
-      "LanguageTag": "zh-Hans",
-      "NativeName": "简体中文",
-      "EnglishName": "Chinese (Simplified)"
-    }
+  "en": {
+    "LanguageTag": "en",
+    "NativeName": "English",
+    "EnglishName": "English"
+  },
+  "zh-Hans": {
+    "LanguageTag": "zh-Hans",
+    "NativeName": "简体中文",
+    "EnglishName": "Chinese (Simplified)"
+  },
+  "tr": {
+    "LanguageTag": "tr",
+    "NativeName": "Türkçe",
+    "EnglishName": "Turkish"
   }
-  
+}
