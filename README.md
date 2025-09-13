@@ -24,9 +24,9 @@ Until then, you can edit JSON files directly on GitHub.
 You can test your translation locally by placing the `.json` file in your executor’s workspace folder and running this **before** loading Voidware Client:
 
 ```lua
-getgenv().environment = "translator_env"
-getgenv().overrideLanguage = "fr"
-getgenv().language = {
+shared.environment = "translator_env"
+shared.TargetLanguage = "fr"
+shared.language = {
     ["fr"] = {
         NativeName = "Français",
         EnglishName = "French"
