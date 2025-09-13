@@ -185,5 +185,7 @@
     "[Save Settings]: Successfully saved your settings ✅": "[Save Settings]: Successfully saved your settings ✅",
     "[Save Settings]: Error saving your profiles :( ❌": "[Save Settings]: Error saving your profiles :( ❌",
     "Reset Settings": "Reset Settings",
-    "[Save Settings]: Press the button again to reset your settings. This cannot be undone!": "[Save Settings]: Press the button again to reset your settings. This cannot be undone!"
+    "[Save Settings]: Press the button again to reset your settings. This cannot be undone!": "[Save Settings]: Press the button again to reset your settings. This cannot be undone!",
+    "Bring Food To Cook Pot": "Bring Food To Cook Pot",
+    "Crock Pot not found": "Crock Pot not found"
 }  
