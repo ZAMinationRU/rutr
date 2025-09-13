@@ -185,5 +185,7 @@
     "[Save Settings]: Successfully saved your settings ✅": "[儲存設置]: 成功儲存您的設置 ✅",
     "[Save Settings]: Error saving your profiles :( ❌": "[儲存設置]: 儲存個人資料時出錯 :( ❌",
     "Reset Settings": "重置設置",
-    "[Save Settings]: Press the button again to reset your settings. This cannot be undone!": "[儲存設置]: 再按一次按鈕以重置您的設置。此操作無法撤銷！"
+    "[Save Settings]: Press the button again to reset your settings. This cannot be undone!": "[儲存設置]: 再按一次按鈕以重置您的設置。此操作無法撤銷！",
+    "Bring Food To Cook Pot": "把食物帶到鍋裡",
+    "Crock Pot not found": "找不到鍋"
 }  
