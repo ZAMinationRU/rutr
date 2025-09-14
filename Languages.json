@@ -13,5 +13,10 @@
     "LanguageTag": "tr",
     "NativeName": "Türkçe",
     "EnglishName": "Turkish"
+  },
+  "ca": {
+    "LanguageTag": "ca",
+    "NativeName": "Català",
+    "EnglishName": "Catalan"
   }
 }
