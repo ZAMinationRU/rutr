@@ -18,5 +18,10 @@
     "LanguageTag": "de",
     "NativeName": "Deutsch",
     "EnglishName": "german"
+  },
+  "fr": {
+    "LanguageTag": "fr",
+    "NativeName": "Français",
+    "EnglishName": "French"
   }
 }
