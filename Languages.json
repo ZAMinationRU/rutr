@@ -23,5 +23,10 @@
     "LanguageTag": "fr",
     "NativeName": "Français",
     "EnglishName": "French"
+  },
+  "it": {
+    "LanguageTag": "it",
+    "NativeName": "Italiano",
+    "EnglishName": "italien"
   }
 }
