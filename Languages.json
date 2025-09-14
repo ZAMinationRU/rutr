@@ -33,5 +33,15 @@
     "LanguageTag": "da",
     "NativeName": "Dansk",
     "EnglishName": "Danish"
+  },
+  "pl": {
+    "LanguageTag": "pl",
+    "NativeName": "Polski",
+    "EnglishName": "Polish"
+  },
+  "pt-BR": {
+    "LanguageTag": "pt-BR",
+    "NativeName": "Português (Brasil)",
+    "EnglishName": "Portuguese (Brazilian)"
   }
 }
