@@ -28,5 +28,10 @@
     "LanguageTag": "it",
     "NativeName": "Italiano",
     "EnglishName": "italien"
+  },
+  "da": {
+    "LanguageTag": "da",
+    "NativeName": "Dansk",
+    "EnglishName": "Danish"
   }
 }
