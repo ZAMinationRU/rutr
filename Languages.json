@@ -9,11 +9,6 @@
     "NativeName": "简体中文",
     "EnglishName": "Chinese (Simplified)"
   },
- "ru": {
-    "LanguageTag": "ru-ru",
-    "NativeName": "Русский",
-    "EnglishName": "Russian  (ru-ver)"
-  },
   "tr": {
     "LanguageTag": "tr",
     "NativeName": "Türkçe",
