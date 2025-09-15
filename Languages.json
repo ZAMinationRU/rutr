@@ -13,35 +13,5 @@
     "LanguageTag": "tr",
     "NativeName": "Türkçe",
     "EnglishName": "Turkish"
-  },
-  "de": {
-    "LanguageTag": "de",
-    "NativeName": "Deutsch",
-    "EnglishName": "german"
-  },
-  "fr": {
-    "LanguageTag": "fr",
-    "NativeName": "Français",
-    "EnglishName": "French"
-  },
-  "it": {
-    "LanguageTag": "it",
-    "NativeName": "Italiano",
-    "EnglishName": "italien"
-  },
-  "da": {
-    "LanguageTag": "da",
-    "NativeName": "Dansk",
-    "EnglishName": "Danish"
-  },
-  "pl": {
-    "LanguageTag": "pl",
-    "NativeName": "Polski",
-    "EnglishName": "Polish"
-  },
-  "pt-BR": {
-    "LanguageTag": "pt-BR",
-    "NativeName": "Português (Brasil)",
-    "EnglishName": "Portuguese (Brazilian)"
   }
 }
