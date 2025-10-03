@@ -112,5 +112,11 @@
     "NativeName": "Bahasa Indonesia",
     "EnglishName": "Indonesian",
     "Country": "Indonesia"
+  },
+  "nl": {
+    "LanguageTag": "nl",
+    "NativeName": "Nederlands",
+    "EnglishName": "Dutch",
+    "Country": "Netherlands"
   }
 }
