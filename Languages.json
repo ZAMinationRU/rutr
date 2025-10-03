@@ -106,5 +106,11 @@
     "NativeName": "Català",
     "EnglishName": "Catalan",
     "Country": "Spain (Catalonia)"
+  },
+  "id": {
+    "LanguageTag": "id",
+    "NativeName": "Bahasa Indonesia",
+    "EnglishName": "Indonesian",
+    "Country": "Indonesia"
   }
 }
